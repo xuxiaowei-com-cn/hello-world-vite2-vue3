@@ -13,3 +13,8 @@ npm init @vitejs/app hello-world-vite2-vue3 --template vue
 ~~~
 npm i -D sass
 ~~~
+
+## vue-router
+~~~
+npm i vue-router@next
+~~~
