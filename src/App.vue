@@ -6,6 +6,8 @@
     <router-link to="/about">About</router-link>
     <br><br>
     <router-link to="/demo/ref">Ref</router-link>
+    |
+    <router-link to="/demo/unref">Unref</router-link>
   </div>
   <router-view/>
 </template>
