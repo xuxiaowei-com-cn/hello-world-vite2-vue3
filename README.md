@@ -18,3 +18,9 @@ npm i -D sass
 ~~~
 npm i vue-router@next
 ~~~
+
+## vuex
+- [next vuex](https://next.vuex.vuejs.org)
+~~~
+npm i vuex@next
+~~~
