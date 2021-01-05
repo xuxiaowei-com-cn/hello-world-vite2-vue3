@@ -10,18 +10,68 @@ npm i @vitejs/create-app
 npm init @vitejs/app hello-world-vite2-vue3 --template vue
 ~~~
 
-## sass
+## 依赖
+
+### element-plus
+- [TAONPM](https://developer.aliyun.com/mirror/npm/package/element-plus)
+- [GitHub](https://github.com/element-plus/element-plus)
+- [element-plus](https://element-plus.gitee.io)
 ~~~
-npm i -D sass
+npm i element-plus
 ~~~
 
-## vue-router
+### vue
+- [TAONPM](https://developer.aliyun.com/mirror/npm/package/vue)
+- [GitHub](https://github.com/vuejs/vue-next)
+- [vuejs cli](https://cli.vuejs.org)
+- [vuejs v3](https://v3.vuejs.org)
+~~~
+npm install -g @vue/cli
+~~~
+
+### vue-router
+- [TAONPM](https://developer.aliyun.com/mirror/npm/package/vue-router)
+- [GitHub](https://github.com/vuejs/vue-router-next)
+- [next router](https://next.router.vuejs.org)
 ~~~
 npm i vue-router@next
 ~~~
 
-## vuex
+### vuex
+- [TAONPM](https://developer.aliyun.com/mirror/npm/package/vuex)
+- [GitHub](https://github.com/vuejs/vuex)
 - [next vuex](https://next.vuex.vuejs.org)
 ~~~
 npm i vuex@next
+~~~
+
+## 开发依赖
+
+### @vitejs/plugin-vue
+- [TAONPM](https://developer.aliyun.com/mirror/npm/package/@vitejs/plugin-vue)
+- [GitHub](https://github.com/vitejs/vite/tree/main/packages/plugin-vue)
+~~~
+npm i -D @vitejs/plugin-vue
+~~~
+
+### @vue/compiler-sfc
+- [TAONPM](https://developer.aliyun.com/mirror/npm/package/@vue/compiler-sfc)
+- [GitHub](https://github.com/vuejs/vue-next/tree/master/packages/compiler-sfc)
+~~~
+npm i -D @vue/compiler-sfc
+~~~
+
+### sass
+- [TAONPM](https://developer.aliyun.com/mirror/npm/package/sass)
+- [GitHub](https://github.com/sass/dart-sass)
+~~~
+npm i -D sass
+~~~
+
+### vite
+- [TAONPM](https://developer.aliyun.com/mirror/npm/package/vite)
+- [GitHub](https://github.com/vitejs/vite)
+- [vitejs](https://vitejs.dev)
+~~~
+npm i -D vite
 ~~~
