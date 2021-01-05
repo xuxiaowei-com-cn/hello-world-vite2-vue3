@@ -9,3 +9,7 @@ npm i @vitejs/create-app
 npm init @vitejs/app hello-world-vite2-vue3 --template vue
 ~~~
 
+## sass
+~~~
+npm i -D sass
+~~~
