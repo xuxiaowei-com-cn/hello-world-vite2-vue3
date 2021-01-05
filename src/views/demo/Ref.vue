@@ -1,7 +1,7 @@
 <template>
   <div>
     <br><br>
-    <el-link type='primary' target='_blank' href='https://v3.vuejs.org/api/refs-api.html'>refs-api</el-link>
+    <el-link type='primary' target='_blank' href='https://v3.vuejs.org/api/refs-api.html#ref'>ref</el-link>
     <br><br>
     <el-tag>作者：{{author}}</el-tag>
     <br><br>
