@@ -1,19 +1,19 @@
-import Ref from '../../views/demo/Ref.vue'
-import Unref from '../../views/demo/Unref.vue'
+import RefsRef from '../../views/refs-api/Ref.vue'
+import RefsUnref from '../../views/refs-api/Unref.vue'
 
-const demoRef = {
-    path: '/demo/ref',
-    name: 'Ref',
-    component: Ref,
+const refsRef = {
+    path: '/refs-api/ref',
+    name: 'RefsRef',
+    component: RefsRef,
 }
 
-const demoUnref = {
-    path: '/demo/unref',
-    name: 'Unref',
-    component: Unref,
+const refsUnref = {
+    path: '/refs-api/unref',
+    name: 'RefsUnref',
+    component: RefsUnref,
 }
 
 export {
-    demoRef,
-    demoUnref,
+    refsRef,
+    refsUnref,
 }

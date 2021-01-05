@@ -5,9 +5,9 @@
     |
     <router-link to="/about">About</router-link>
     <br><br>
-    <router-link to="/demo/ref">Ref</router-link>
+    <router-link to="/refs-api/ref">Ref</router-link>
     |
-    <router-link to="/demo/unref">Unref</router-link>
+    <router-link to="/refs-api/unref">Unref</router-link>
   </div>
   <router-view/>
 </template>
