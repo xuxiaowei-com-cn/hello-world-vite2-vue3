@@ -3,7 +3,7 @@
     <br><br>
     <el-link type='primary' target='_blank' href='https://v3.vuejs.org/api/refs-api.html#unref'>unref</el-link>
     <br><br>
-    <el-input v-model='input' class='unref-input' placeholder='请输入内容'></el-input>
+    <el-input v-model='input' id='input' placeholder='请输入内容'></el-input>
     <br><br>
     <el-button @click="unrefButton()">按钮</el-button>
   </div>
@@ -15,15 +15,16 @@ import { ref, unref } from 'vue'
 const input = ref(null)
 
 function unrefButton() {
-  console.log(input.value)
-  console.log(unref(input))
+  console.log('input.value：', input.value)
+  console.log('unref(input)：', unref(input))
+  console.log('unref(document.getElementById("input"))：', unref(document.getElementById("input").value))
 }
 
 </script>
 
 <style lang="scss">
 
-.unref-input {
+#input {
   width: 200px;
 }
 
