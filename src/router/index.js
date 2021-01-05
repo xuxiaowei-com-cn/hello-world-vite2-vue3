@@ -1,6 +1,6 @@
 import { createRouter, createWebHashHistory } from 'vue-router'
 import Home from '../views/Home.vue'
-import { refsRef, refsUnref } from './demo'
+import { refsRef, refsUnref, refsToRef } from './demo'
 
 const routes = [
   {
@@ -18,6 +18,7 @@ const routes = [
   },
   refsRef,
   refsUnref,
+  refsToRef,
 ]
 
 const router = createRouter({

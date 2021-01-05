@@ -1,5 +1,6 @@
 import RefsRef from '../../views/refs-api/Ref.vue'
 import RefsUnref from '../../views/refs-api/Unref.vue'
+import RefsToRef from '../../views/refs-api/ToRef.vue'
 
 const refsRef = {
     path: '/refs-api/ref',
@@ -13,7 +14,14 @@ const refsUnref = {
     component: RefsUnref,
 }
 
+const refsToRef = {
+    path: '/refs-api/toRef',
+    name: 'RefsToRef',
+    component: RefsToRef,
+}
+
 export {
     refsRef,
     refsUnref,
+    refsToRef,
 }

@@ -8,6 +8,8 @@
     <router-link to="/refs-api/ref">Ref</router-link>
     |
     <router-link to="/refs-api/unref">Unref</router-link>
+    |
+    <router-link to="/refs-api/toRef">ToRef</router-link>
   </div>
   <router-view/>
 </template>
