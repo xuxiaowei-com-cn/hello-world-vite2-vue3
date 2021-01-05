@@ -2,6 +2,7 @@
  
 ## 创建项目
 - 创建完成功，项目路径：create-app/hello-world-vite2-vue3
+- [Vue 3 Documentation](https://v3.vuejs.org)
 ~~~
 mkdir create-app
 cd create-app
