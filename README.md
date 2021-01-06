@@ -81,6 +81,7 @@ npm i -D sass
 - [创建项目](https://vitejs.dev/guide/#scaffolding-your-first-vite-project)
 - [命令行](https://vitejs.dev/guide/#command-line-interface)
 - [浏览器兼容性](https://vitejs.dev/guide/build.html#browser-compatibility)
+- [多页应用](https://vitejs.dev/guide/build.html#multi-page-app)
 - [配置 vite](https://vitejs.dev/config/#configuring-vite)
 - [条件配置](https://vitejs.dev/config/#conditional-config)
 - [生产项目名](https://vitejs.dev/config/#build-base)
