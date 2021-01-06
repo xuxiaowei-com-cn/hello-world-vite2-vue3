@@ -20,6 +20,12 @@ npm init @vitejs/app hello-world-vite2-vue3 --template vue
 npm i element-plus
 ~~~
 
+### uuid
+- [TAONPM](https://developer.aliyun.com/mirror/npm/package/uuid)
+~~~
+npm i uuid
+~~~
+
 ### vue
 - [TAONPM](https://developer.aliyun.com/mirror/npm/package/vue)
 - [GitHub](https://github.com/vuejs/vue-next)
