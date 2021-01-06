@@ -21,8 +21,8 @@ export default ({command, mode}) => {
         console.log('生产配置')
         Object.assign(result, { // 生产配置
             build: {
-                base: '/hello-world-vite2-vue3', // 生产项目名
-                outDir: 'hello-world-vite2-vue3', // 指定输出目录
+                base: '/hello-world-vite2-vue3', // 生产项目名，默认：/
+                outDir: 'hello-world-vite2-vue3', // 指定输出目录，默认：dist
             }
         });
     }
