@@ -86,6 +86,7 @@ npm i -D sass
 - [生产项目名](https://vitejs.dev/config/#build-base)
 - [指定输出目录](https://vitejs.dev/config/#build-outdir)
 - [静态文件路径](https://vitejs.dev/config/#build-assetsdir)
+- [静态资源阈值](https://vitejs.dev/config/#build-assetsinlinelimit)
 ~~~
 npm i -D vite
 ~~~
