@@ -77,6 +77,8 @@ npm i -D sass
 - [浏览器兼容性](https://vitejs.dev/guide/build.html#browser-compatibility)
 - [配置 vite](https://vitejs.dev/config/#configuring-vite)
 - [条件配置](https://vitejs.dev/config/#conditional-config)
+- [生产项目名](https://vitejs.dev/config/#build-base)
+- [指定输出目录](https://vitejs.dev/config/#build-outdir)
 ~~~
 npm i -D vite
 ~~~
