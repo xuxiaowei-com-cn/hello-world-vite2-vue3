@@ -72,6 +72,9 @@ npm i -D sass
 - [TAONPM](https://developer.aliyun.com/mirror/npm/package/vite)
 - [GitHub](https://github.com/vitejs/vite)
 - [vitejs](https://vitejs.dev)
+- [创建项目](https://vitejs.dev/guide/#scaffolding-your-first-vite-project)
+- [命令行](https://vitejs.dev/guide/#command-line-interface)
+- [浏览器兼容性](https://vitejs.dev/guide/build.html#browser-compatibility)
 ~~~
 npm i -D vite
 ~~~
