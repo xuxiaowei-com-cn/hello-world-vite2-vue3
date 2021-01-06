@@ -85,6 +85,7 @@ npm i -D sass
 - [条件配置](https://vitejs.dev/config/#conditional-config)
 - [生产项目名](https://vitejs.dev/config/#build-base)
 - [指定输出目录](https://vitejs.dev/config/#build-outdir)
+- [静态文件路径](https://vitejs.dev/config/#build-assetsdir)
 ~~~
 npm i -D vite
 ~~~

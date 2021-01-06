@@ -23,6 +23,7 @@ export default ({command, mode}) => {
             build: {
                 base: '/hello-world-vite2-vue3', // 生产项目名，默认：/
                 outDir: 'hello-world-vite2-vue3', // 指定输出目录，默认：dist
+                assetsDir: 'static', // 静态文件路径，默认：assets
             }
         });
     }
