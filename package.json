@@ -2,7 +2,7 @@
   "name": "hello-world-vite2-vue3",
   "version": "0.0.0",
   "scripts": {
-    "dev": "vite --port=801",
+    "dev": "vite --port=901",
     "build": "vite build"
   },
   "dependencies": {
